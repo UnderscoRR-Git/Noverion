@@ -14,8 +14,8 @@
 
 <p align="center">
 <img src="https://img.shields.io/github/last-commit/Underscorr-Git/Noverion?style=flat">
-<img src="https://img.shields.io/github/stars/Underscorr-Git/Noverion?color=brightred">
-<img src="https://img.shields.io/github/forks/Underscorr-Git/Noverion?color=brightgreen">
+<img src="https://img.shields.io/github/stars/Underscorr-Git/Noverion?color=blue">
+<img src="https://img.shields.io/github/forks/Underscorr-Git/Noverion?color=red">
 </p>
 
 <p align="center"><a href=#top>Back to Top</a></p>
