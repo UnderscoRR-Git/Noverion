@@ -3,7 +3,7 @@
 #
 
 <h1 align="center">
-⚔️ Doenerium 🛡️
+NOVERION
 </h1>
 
 <p align="center"> 
