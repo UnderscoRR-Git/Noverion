@@ -8,7 +8,7 @@
 
 <p align="center"> 
   <kbd>
-<img src="https://images-ext-1.discordapp.net/external/XF_zctmsx1ZUspqbqhZfSm91qIlNvdtEVMkl7uISZD8/%3Fsize%3D96%26quality%3Dlossless/https/cdn.discordapp.com/emojis/948405394433253416.webp" width="328"></img>
+<img src="https://github.com/UnderscoRR-Git/Noverion/assets/119547235/2d345808-0183-4aaf-b2e7-0cf1edba4bf9" width="250"></img>
   </kbd>
 </p>
 
